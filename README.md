@@ -4,10 +4,10 @@ Teste de API do manual CI/CD
 Este repositório foi criado para o bootcamp de teste de API Rest
 
 ## Tecnologia ultilizada
--Postman versão web
--node version v18.6
--newman vs 3.2
--newman-reporter-html
+- Postman versão web
+- node version v18.6
+- newman vs 3.2
+- newman-reporter-html
 
 ## Documentacões
 - Doc da API: [Consulte Swagger] https://serverest.dev/swagger.json
